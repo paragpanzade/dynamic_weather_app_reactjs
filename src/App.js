@@ -69,7 +69,16 @@ function App() {
       </div>
         )
       }
-    </div></>
+    </div>
+    <div className="footer">
+      <p>
+        Developed by: <br></br>
+        <b>Parag Vishnu Panzade </b><br></br><br></br>
+        Contact:
+        +91 9881226607 | panzadeparag@gmail.com<br></br>
+        <a href="https://www.linkedin.com/in/paragpanzade">LinkedIn</a> | <a href="https://github.com/paragpanzade">GitHub</a>
+      </p>
+      </div></>
     
   );
 }

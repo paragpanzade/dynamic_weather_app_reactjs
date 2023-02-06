@@ -39,3 +39,16 @@
   color: white;
   border-radius: 5px;
 }
+.footer {
+  background-color: #282c34;
+  width: 100%;
+  height: fit-content;
+  color: #ddd;
+  padding: 20px;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #00F
+}
